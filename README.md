@@ -1,5 +1,6 @@
 # ST-GCN
-A PyTorch implementation of S. Yan, Y. Xiong, and D. Lin, “**Spatial temporal graph convolutional networks for skeleton-based action recognition**,” in Proceedings of the AAAI conference on artificial intelligence, vol. 32, no. 1, 2018.
+A PyTorch implementation of
+S. Yan, Y. Xiong, and D. Lin, “**Spatial temporal graph convolutional networks for skeleton-based action recognition**,” in Proceedings of the AAAI conference on artificial intelligence, vol. 32, no. 1, 2018.
 
 This repository contains a PyTorch implementation of ST-GCN developed as part of coursework in CS6208: CS6208 Advanced Topics in Artificial Intelligence.
 
